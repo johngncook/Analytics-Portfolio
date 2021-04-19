@@ -4,9 +4,9 @@
 
 Exploring the relationships between Bitcoin prices and tweets mentioning #Bitcoin.
 
-![](/Images/bitcoin_analysis_image_1.JPG)<br/>  
+![](/Images/bitcoin_analysis_image_1.JPG)  
 
-
+![]()
 ## [WeRateDogs Twitter Handle Analysis](https://github.com/johngncook/WeRateDogs-Analysis)
 
 This is a project from Udacity's Data Analyst Nanodegree Course to gather, clean, and analyze twitter data from the twitter handle WeRateDogs.
