@@ -3,7 +3,7 @@ I am a Data Science student at Central Connecticut State University and work in 
 
 Find me on:
 
--Twitter [@johngncook](https://twitter.com/johngncook)
+-Twitter [@johngncook](https://twitter.com/johngncook)\
 -Linkedinn [www.linkedin.com/in/johngncook](www.linkedin.com/in/johngncook)
 
 
