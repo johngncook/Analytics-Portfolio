@@ -24,4 +24,6 @@ This is a project from Udacity's Data Analyst Nanodegree Course to gather, clean
 
 A pandas analysis of a Pokemon stats data set to discover the most powerful pokemon and the most powerful pokemon type.
 
+![](https://github.com/johngncook/Analytics-Portfolio/blob/main/Images/pokemon_image.PNG)
+
 
