@@ -3,10 +3,8 @@ I am a Data Science student at Central Connecticut State University and work in 
 
 Find me on:
 
--Twitter @johngncook
--
-
-![](/Images/118070659_10216635895945654_7500484329869396564_n%20(2).jpg)
+-Twitter [@johngncook](https://twitter.com/johngncook)
+-Linkedinn [www.linkedin.com/in/johngncook](www.linkedin.com/in/johngncook)
 
 
 # **Projects**
@@ -30,4 +28,5 @@ A pandas analysis of a Pokemon stats data set to discover the most powerful poke
 
 ![](/Images/pokemon_image.PNG)
 
-
+# **Contact**
+johngncook@gmail.com
