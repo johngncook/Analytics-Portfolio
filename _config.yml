@@ -1,6 +1,4 @@
 theme: jekyll-theme-cayman
 title: [John Cook]
 description: Data Analytics Portfolio
-primarylinks:
- - title: Blog
-   url: https://automateddeveloper.blogspot.com/
+show_downloads: false
