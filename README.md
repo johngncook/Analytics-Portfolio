@@ -1,4 +1,7 @@
-# Projects
+**# About Me**
+I am a Data Science student at Central Connecticut State University and work in finance. I love everything about data from gathering, to cleaning, exploring, and gaining important insights to provide real value. 
+
+**# Projects**
 
 ## [Bitcoin Analysis](https://github.com/johngncook/Bitcoin-Analysis)
 
@@ -12,34 +15,4 @@ This is a project from Udacity's Data Analyst Nanodegree Course to gather, clean
 
 A pandas analysis of a Pokemon stats data set to discover the most powerful pokemon and the most powerful pokemon type.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/johngncook/Analytics-Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
