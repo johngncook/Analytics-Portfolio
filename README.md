@@ -4,7 +4,7 @@
 
 Exploring the relationships between Bitcoin prices and tweets mentioning #Bitcoin.
 
-![](https://github.com/johngncook/Analytics-Portfolio/blob/main/Images/bitcoin_analysis_image_1.JPG)
+![](/Images/bitcoin_analysis_image_1.JPG)
 
 
 ## [WeRateDogs Twitter Handle Analysis](https://github.com/johngncook/WeRateDogs-Analysis)
@@ -17,6 +17,6 @@ This is a project from Udacity's Data Analyst Nanodegree Course to gather, clean
 
 A pandas analysis of a Pokemon stats data set to discover the most powerful pokemon and the most powerful pokemon type.
 
-![](https://github.com/johngncook/Analytics-Portfolio/blob/main/Images/pokemon_image.PNG)
+![](/Images/pokemon_image.PNG)
 
 
