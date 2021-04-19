@@ -11,7 +11,7 @@ Exploring the relationships between Bitcoin prices and tweets mentioning #Bitcoi
 
 This is a project from Udacity's Data Analyst Nanodegree Course to gather, clean, and analyze twitter data from the twitter handle WeRateDogs.
 
-![](https://github.com/johngncook/Analytics-Portfolio/blob/main/Images/WeRateDogs.PNG)
+![](/Images/WeRateDogs.PNG)
 
 ## [Pokemon EDA](https://github.com/johngncook/pokemon-analysis)
 
