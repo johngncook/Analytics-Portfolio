@@ -1,7 +1,7 @@
-**# About Me**
+# **About Me**
 I am a Data Science student at Central Connecticut State University and work in finance. I love everything about data from gathering, to cleaning, exploring, and gaining important insights to provide real value. 
 
-**# Projects**
+# **Projects**
 
 ## [Bitcoin Analysis](https://github.com/johngncook/Bitcoin-Analysis)
 
