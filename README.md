@@ -11,7 +11,8 @@ Find me on:
 
 Exploring the relationships between Bitcoin prices and tweets mentioning #Bitcoin.
 
-![bitcoin image](https://github.com/johngncook/Analytics-Portfolio/blob/main/Images/bitcoin_analysis_image_1.JPG)
+![bitcoin image](https://github.com/johngncook/Analytics-Portfolio/blob/main/Images/bitcoin_analysis_image_1.png)
+
 
 ## [WeRateDogs Twitter Handle Analysis](https://github.com/johngncook/WeRateDogs-Analysis)
 
