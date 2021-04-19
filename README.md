@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+# Projects
 
-You can use the [editor on GitHub](https://github.com/johngncook/Analytics-Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## [Bitcoin Analysis](https://github.com/johngncook/Bitcoin-Analysis)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Exploring the relationships between Bitcoin prices and tweets mentioning #Bitcoin.
+
+## [WeRateDogs Twitter Handle Analysis](https://github.com/johngncook/WeRateDogs-Analysis)
+
+This is a project from Udacity's Data Analyst Nanodegree Course to gather, clean, and analyze twitter data from the twitter handle WeRateDogs.
+
+## [Pokemon EDA](https://github.com/johngncook/pokemon-analysis)
+
+A pandas analysis of a Pokemon stats data set to discover the most powerful pokemon and the most powerful pokemon type.
 
 ### Markdown
 
