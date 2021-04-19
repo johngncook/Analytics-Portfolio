@@ -11,14 +11,14 @@ Find me on:
 
 Exploring the relationships between Bitcoin prices and tweets mentioning #Bitcoin.
 
-![bitcoin image](https://github.com/johngncook/Analytics-Portfolio/blob/main/Images/bitcoin_analysis_image_1.png)
+![](https://github.com/johngncook/Analytics-Portfolio/blob/main/Images/bitcoin_analysis_image_1.png)
 
 
 ## [WeRateDogs Twitter Handle Analysis](https://github.com/johngncook/WeRateDogs-Analysis)
 
 This is a project from Udacity's Data Analyst Nanodegree Course to gather, clean, and analyze twitter data from the twitter handle WeRateDogs.
 
-![dog image](https://github.com/johngncook/Analytics-Portfolio/blob/main/Images/WeRateDogs.PNG)
+![](https://github.com/johngncook/Analytics-Portfolio/blob/main/Images/WeRateDogs.PNG)
 
 ## [Pokemon EDA](https://github.com/johngncook/pokemon-analysis)
 
